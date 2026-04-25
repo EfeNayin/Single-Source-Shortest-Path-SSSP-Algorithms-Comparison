@@ -1,0 +1,5 @@
+Dataset,Algorithm,Nodes,Edges,Avg_Runtime_ms,Total_Runtime_ms,Memory_KB,Sources_Tested
+NY,Dijkstra,264346,733846,26.376,263.762,2188,10
+NY,Bellman-Ford,264346,733846,641493.941,641493.941,2380,1
+COL,Dijkstra,435666,1057066,53.509,535.085,3616,10
+COL,Bellman-Ford,435666,1057066,1571605.388,1571605.388,3388,1
