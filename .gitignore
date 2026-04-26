@@ -1,0 +1,30 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+SSSP_benchmark
+SSSP_benchmark.exe
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+
+# Documentation temp files
+*.docx
+*.pdf
+~$*.docx
